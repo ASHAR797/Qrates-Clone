@@ -52,6 +52,12 @@
         line-height: 58px;
     }
 
+    .sec-1-first-container div:nth-child(1)>span {
+        padding: 10px 12px;
+        border: 1.5px solid white;
+        width: 130px;
+    }
+
     .sec-1-first-container div:nth-child(1)>p {
         font-size: 20px;
     }
